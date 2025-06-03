@@ -1,0 +1,154 @@
+{
+  "project_overview": {
+    "project_name": "Awaken Consciousness",
+    "concept": "Interactive webapp voor spirituele ontwikkeling met sacred geometry",
+    "core_principles": [
+      "As Above, So Below (Emerald Tablet)",
+      "Consciousness Continuum ontwikkeling",
+      "Sacred Geometry visualisatie",
+      "Interactieve symboliek exploratie"
+    ],
+    "structure": {
+      "phases": 5,
+      "elements": [
+        "Air",
+        "Earth",
+        "Fire",
+        "Water",
+        "Universe"
+      ],
+      "progression": "Van simpel naar complex bewustzijn"
+    },
+    "visual_design": {
+      "color_progression": {
+        "phase_1": "Wit (#ffffff) - Puur, onbeschreven",
+        "phase_2": "Subtiele hints van elementkleuren",
+        "phase_3": "Pastelachtige versies",
+        "phase_4": "Diepe, rijke tinten",
+        "phase_5": "Volle, felle kleuren - Awakening"
+      },
+      "theme": {
+        "primary_colors": [
+          "Diepblauw (#1A237E)",
+          "Paars (#6C2EB6)",
+          "Goud (#FFD700)"
+        ],
+        "secondary_colors": [
+          "Turquoise (#00B8D4)",
+          "Wit (#F5F5F5)"
+        ],
+        "style": "Mystiek, kosmisch, lichtgevend, modern"
+      }
+    },
+    "technology_stack": {
+      "frontend": [
+        "HTML5",
+        "CSS3",
+        "JavaScript"
+      ],
+      "features": [
+        "Sacred geometry explorer",
+        "Interactive symbols",
+        "Phase transitions",
+        "Audio integration"
+      ],
+      "responsive": true,
+      "accessibility": "WCAG 2.1 compliant"
+    }
+  },
+  "symbol_categories": {
+    "simple_universal": [
+      "Dot & Circle",
+      "Triangle",
+      "Square",
+      "Feather",
+      "Sun",
+      "Key",
+      "Bell/Gong",
+      "Mirror",
+      "Torch",
+      "Hourglass",
+      "Pine Cones"
+    ],
+    "natural_geometric": [
+      "Spiral",
+      "Labyrinth",
+      "Butterfly",
+      "Lotus",
+      "Bodhi tree",
+      "Tree of Life",
+      "Golden Fish",
+      "Flower of Life",
+      "River",
+      "Beehive"
+    ],
+    "complex_spiritual": [
+      "Yin Yang",
+      "Infinity",
+      "Hexagram",
+      "Vajra",
+      "Mandala",
+      "Yantras",
+      "Platonic Solids",
+      "Sankofa",
+      "Kongo Cosmogram"
+    ],
+    "esoteric_advanced": [
+      "Ouroboros",
+      "Merkaba",
+      "Third Eye Chakra",
+      "Buddha's eyes",
+      "Sri Yantra",
+      "Metatron's Cube",
+      "Torus",
+      "Unalome"
+    ]
+  },
+  "element_meanings": {
+    "Air": {
+      "symbolism": "Intellect, communicatie, mentale bevrijding",
+      "colors": [
+        "Lichtblauw (#AEEFFF)",
+        "Wit",
+        "Zacht grijs"
+      ],
+      "energy": "Inspiratie, denken, eerste ontwaking"
+    },
+    "Earth": {
+      "symbolism": "Gronding, manifestatie, belichaming",
+      "colors": [
+        "Diep groen (#2E7D32)",
+        "Warm bruin (#8D6748)",
+        "Beige (#F5E5C0)"
+      ],
+      "energy": "Integratie van kennis in dagelijks leven"
+    },
+    "Fire": {
+      "symbolism": "Transformatie, wilskracht, innerlijk licht",
+      "colors": [
+        "Diep oranje (#FF6F00)",
+        "Vurig rood (#FF3D00)",
+        "Goudgeel (#FFF176)"
+      ],
+      "energy": "Zuivering en bewustzijnsverruiming"
+    },
+    "Water": {
+      "symbolism": "Emotie, intuïtie, collectief geheugen",
+      "colors": [
+        "Diep blauw (#1976D2)",
+        "Turquoise (#00B8D4)",
+        "Zacht wit"
+      ],
+      "energy": "Stroom van bewustzijn en verbinding"
+    },
+    "Universe": {
+      "symbolism": "Non-dualiteit, kosmisch bewustzijn, eenheid",
+      "colors": [
+        "Diep paars (#6C2EB6)",
+        "Nachtblauw (#1A237E)",
+        "Zilver/wit"
+      ],
+      "energy": "Ultieme eenheid en universele kennis"
+    }
+  }
+}
